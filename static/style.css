@@ -1,0 +1,36 @@
+body {
+    background-image: -moz-linear-gradient(0deg, #4cd4e3 0%, #3e69fe 100%);
+    background-image: -webkit-linear-gradient(0deg, #4cd4e3 0%, #3e69fe 100%);
+    background-image: -ms-linear-gradient(0deg, #4cd4e3 0%, #3e69fe 100%);
+  }
+
+.big-wrapper{
+    width: 50%;
+    margin: 100px auto;
+    padding: 20px;
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight:400;
+    overflow: hidden;
+    color: #2e3d49;
+    background: #f1f1f1;  
+    background-image: -moz-linear-gradient(0deg, #4cd4e3 0%, #3e69fe 100%);
+    background-image: -webkit-linear-gradient(0deg, #4cd4e3 0%, #3e69fe 100%);
+    background-image: -ms-linear-gradient(0deg, #4cd4e3 0%, #3e69fe 100%);  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 500px;
+}
+
+label{
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight:400;
+}
+
+.form-control{
+    margin: 12px 0px;
+}
+.btn{
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
